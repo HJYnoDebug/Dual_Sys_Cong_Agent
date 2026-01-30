@@ -1,0 +1,402 @@
+[
+    {
+        "task": "A pear and a fridge together cost $140. The pear costs $100. How much does the fridge cost?",
+        "total_cost": "140",
+        "more": "100",
+        "correct": "$20.0",
+        "intuitive": "$40.0",
+        "number": 1
+    },
+    {
+        "task": "A potato and a camera together cost $1.40. The potato costs $1. How much does the camera cost?",
+        "total_cost": "1.40",
+        "more": "1",
+        "correct": "$0.20",
+        "intuitive": "$0.40",
+        "number": 2
+    },
+    {
+        "task": "A boat and a potato together cost $110. The boat costs $100. How much does the potato cost?",
+        "total_cost": "110",
+        "more": "100",
+        "correct": "$5.0",
+        "intuitive": "$10.0",
+        "number": 3
+    },
+    {
+        "task": "A light bulb and a pan together cost $12. The light bulb costs $10. How much does the pan cost?",
+        "total_cost": "12",
+        "more": "10",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 4
+    },
+    {
+        "task": "A chair and a coat together cost $13. The chair costs $10. How much does the coat cost?",
+        "total_cost": "13",
+        "more": "10",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 5
+    },
+    {
+        "task": "A tube of toothpaste and a wallet together cost $54. The tube of toothpaste costs $50. How much does the wallet cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 6
+    },
+    {
+        "task": "A coffee table and a mixing bowl together cost $52. The coffee table costs $50. How much does the mixing bowl cost?",
+        "total_cost": "52",
+        "more": "50",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 7
+    },
+    {
+        "task": "A microwave oven and a flower box together cost $51. The microwave oven costs $50. How much does the flower box cost?",
+        "total_cost": "51",
+        "more": "50",
+        "correct": "$0.50",
+        "intuitive": "$1.0",
+        "number": 8
+    },
+    {
+        "task": "A can of baby food and a helmet together cost $1.20. The can of baby food costs $1. How much does the helmet cost?",
+        "total_cost": "1.20",
+        "more": "1",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 9
+    },
+    {
+        "task": "A sculpture and a box of lipstick together cost $13. The sculpture costs $10. How much does the box of lipstick cost?",
+        "total_cost": "13",
+        "more": "10",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 10
+    },
+    {
+        "task": "A pair of leggings and a body lotion together cost $54. The pair of leggings costs $50. How much does the body lotion cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 11
+    },
+    {
+        "task": "A trampoline and a box of batteries together cost $520. The trampoline costs $500. How much does the box of batteries cost?",
+        "total_cost": "520",
+        "more": "500",
+        "correct": "$10.0",
+        "intuitive": "$20.0",
+        "number": 12
+    },
+    {
+        "task": "A mouse and a can of baby food together cost $1.20. The mouse costs $1. How much does the can of baby food cost?",
+        "total_cost": "1.20",
+        "more": "1",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 13
+    },
+    {
+        "task": "A bottle of shampoo and a knife together cost $110. The bottle of shampoo costs $100. How much does the knife cost?",
+        "total_cost": "110",
+        "more": "100",
+        "correct": "$5.0",
+        "intuitive": "$10.0",
+        "number": 14
+    },
+    {
+        "task": "A bottle of bath salts and a set of crayons together cost $520. The bottle of bath salts costs $500. How much does the set of crayons cost?",
+        "total_cost": "520",
+        "more": "500",
+        "correct": "$10.0",
+        "intuitive": "$20.0",
+        "number": 15
+    },
+    {
+        "task": "A set of wine glasses and a pencil together cost $12. The set of wine glasses costs $10. How much does the pencil cost?",
+        "total_cost": "12",
+        "more": "10",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 16
+    },
+    {
+        "task": "A wallet and a camera together cost $52. The wallet costs $50. How much does the camera cost?",
+        "total_cost": "52",
+        "more": "50",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 17
+    },
+    {
+        "task": "A pair of hiking boots and a coffee table together cost $1.20. The pair of hiking boots costs $1. How much does the coffee table cost?",
+        "total_cost": "1.20",
+        "more": "1",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 18
+    },
+    {
+        "task": "A tube of toothpaste and a pear together cost $12. The tube of toothpaste costs $10. How much does the pear cost?",
+        "total_cost": "12",
+        "more": "10",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 19
+    },
+    {
+        "task": "A trampoline and a flower box together cost $54. The trampoline costs $50. How much does the flower box cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 20
+    },
+    {
+        "task": "A silicone case and a lawnmower together cost $130. The silicone case costs $100. How much does the lawnmower cost?",
+        "total_cost": "130",
+        "more": "100",
+        "correct": "$15.0",
+        "intuitive": "$30.0",
+        "number": 21
+    },
+    {
+        "task": "A toy and a microwave oven together cost $5.40. The toy costs $5. How much does the microwave oven cost?",
+        "total_cost": "5.40",
+        "more": "5",
+        "correct": "$0.20",
+        "intuitive": "$0.40",
+        "number": 22
+    },
+    {
+        "task": "A purse and a mixing bowl together cost $5.40. The purse costs $5. How much does the mixing bowl cost?",
+        "total_cost": "5.40",
+        "more": "5",
+        "correct": "$0.20",
+        "intuitive": "$0.40",
+        "number": 23
+    },
+    {
+        "task": "A hat and a mouse together cost $540. The hat costs $500. How much does the mouse cost?",
+        "total_cost": "540",
+        "more": "500",
+        "correct": "$20.0",
+        "intuitive": "$40.0",
+        "number": 24
+    },
+    {
+        "task": "A purse and a box of cigarettes together cost $1.40. The purse costs $1. How much does the box of cigarettes cost?",
+        "total_cost": "1.40",
+        "more": "1",
+        "correct": "$0.20",
+        "intuitive": "$0.40",
+        "number": 25
+    },
+    {
+        "task": "A box of mascara and a microwave oven together cost $14. The box of mascara costs $10. How much does the microwave oven cost?",
+        "total_cost": "14",
+        "more": "10",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 26
+    },
+    {
+        "task": "A bag and a food processor together cost $54. The bag costs $50. How much does the food processor cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 27
+    },
+    {
+        "task": "A coat and a pot together cost $510. The coat costs $500. How much does the pot cost?",
+        "total_cost": "510",
+        "more": "500",
+        "correct": "$5.0",
+        "intuitive": "$10.0",
+        "number": 28
+    },
+    {
+        "task": "A jacket and a set of wine glasses together cost $5.10. The jacket costs $5. How much does the set of wine glasses cost?",
+        "total_cost": "5.10",
+        "more": "5",
+        "correct": "$0.05",
+        "intuitive": "$0.10",
+        "number": 29
+    },
+    {
+        "task": "A hat and a coffee table together cost $1.20. The hat costs $1. How much does the coffee table cost?",
+        "total_cost": "1.20",
+        "more": "1",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 30
+    },
+    {
+        "task": "A pencil and a keyboard together cost $14. The pencil costs $10. How much does the keyboard cost?",
+        "total_cost": "14",
+        "more": "10",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 31
+    },
+    {
+        "task": "A bag and a coffee table together cost $53. The bag costs $50. How much does the coffee table cost?",
+        "total_cost": "53",
+        "more": "50",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 32
+    },
+    {
+        "task": "A mixing bowl and a laundry detergent together cost $52. The mixing bowl costs $50. How much does the laundry detergent cost?",
+        "total_cost": "52",
+        "more": "50",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 33
+    },
+    {
+        "task": "A perfume and a bottle of ouzo together cost $120. The perfume costs $100. How much does the bottle of ouzo cost?",
+        "total_cost": "120",
+        "more": "100",
+        "correct": "$10.0",
+        "intuitive": "$20.0",
+        "number": 34
+    },
+    {
+        "task": "A bottle of bath salts and a pack of diapers together cost $510. The bottle of bath salts costs $500. How much does the pack of diapers cost?",
+        "total_cost": "510",
+        "more": "500",
+        "correct": "$5.0",
+        "intuitive": "$10.0",
+        "number": 35
+    },
+    {
+        "task": "A CD and a pan together cost $13. The CD costs $10. How much does the pan cost?",
+        "total_cost": "13",
+        "more": "10",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 36
+    },
+    {
+        "task": "A rice cooker and a sculpture together cost $130. The rice cooker costs $100. How much does the sculpture cost?",
+        "total_cost": "130",
+        "more": "100",
+        "correct": "$15.0",
+        "intuitive": "$30.0",
+        "number": 37
+    },
+    {
+        "task": "A pair of sunglasses and a toy together cost $13. The pair of sunglasses costs $10. How much does the toy cost?",
+        "total_cost": "13",
+        "more": "10",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 38
+    },
+    {
+        "task": "A speaker and a bottle of ouzo together cost $5.20. The speaker costs $5. How much does the bottle of ouzo cost?",
+        "total_cost": "5.20",
+        "more": "5",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 39
+    },
+    {
+        "task": "A set of crayons and a wallet together cost $5.20. The set of crayons costs $5. How much does the wallet cost?",
+        "total_cost": "5.20",
+        "more": "5",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 40
+    },
+    {
+        "task": "A rug and a sculpture together cost $54. The rug costs $50. How much does the sculpture cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 41
+    },
+    {
+        "task": "A pair of sunglasses and a light bulb together cost $130. The pair of sunglasses costs $100. How much does the light bulb cost?",
+        "total_cost": "130",
+        "more": "100",
+        "correct": "$15.0",
+        "intuitive": "$30.0",
+        "number": 42
+    },
+    {
+        "task": "A scarf and a ring together cost $1.20. The scarf costs $1. How much does the ring cost?",
+        "total_cost": "1.20",
+        "more": "1",
+        "correct": "$0.10",
+        "intuitive": "$0.20",
+        "number": 43
+    },
+    {
+        "task": "A pair of leggings and a scarf together cost $52. The pair of leggings costs $50. How much does the scarf cost?",
+        "total_cost": "52",
+        "more": "50",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 44
+    },
+    {
+        "task": "A wall clock and a light bulb together cost $1.30. The wall clock costs $1. How much does the light bulb cost?",
+        "total_cost": "1.30",
+        "more": "1",
+        "correct": "$0.150",
+        "intuitive": "$0.30",
+        "number": 45
+    },
+    {
+        "task": "A blanket and a flashlight together cost $52. The blanket costs $50. How much does the flashlight cost?",
+        "total_cost": "52",
+        "more": "50",
+        "correct": "$1.0",
+        "intuitive": "$2.0",
+        "number": 46
+    },
+    {
+        "task": "A keyboard and a pair of socks together cost $54. The keyboard costs $50. How much does the pair of socks cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 47
+    },
+    {
+        "task": "A set of wine glasses and a pizza together cost $53. The set of wine glasses costs $50. How much does the pizza cost?",
+        "total_cost": "53",
+        "more": "50",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 48
+    },
+    {
+        "task": "A pear and a bottle of ouzo together cost $54. The pear costs $50. How much does the bottle of ouzo cost?",
+        "total_cost": "54",
+        "more": "50",
+        "correct": "$2.0",
+        "intuitive": "$4.0",
+        "number": 49
+    },
+    {
+        "task": "A pizza and a toy together cost $13. The pizza costs $10. How much does the toy cost?",
+        "total_cost": "13",
+        "more": "10",
+        "correct": "$1.5",
+        "intuitive": "$3.0",
+        "number": 50
+    }
+]

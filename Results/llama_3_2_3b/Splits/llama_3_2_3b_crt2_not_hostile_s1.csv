@@ -1,0 +1,51 @@
+﻿id,task,s1_answer,correct,s1_confidence,consistency_entropy,latency_ms,prompt_tokens,completion_tokens,s1_raw_output,samples_count,T_F
+7,"How long does it take 70 students to change 40 light bulbs, if it takes 70 students 70 minutes to change 70 light bulbs?",70 minutes,40.0,100,1,340,79,14,"{""answer"": ""70 minutes"", ""confidence"": 100}",1,False
+1,"How long does it take 8 washing machines to wash 4 loads of laundry, if it takes 8 washing machines 8 hours to wash 8 loads of laundry?",2 hours,4.0,100,1,397,83,14,"{""answer"": ""2 hours"", ""confidence"": 100}",1,False
+12,"How long does it take 50 children to eat 10 boxes of chocolates, if it takes 50 children 50 minutes to eat 50 boxes of chocolates?",1 minute,10.0,100,1,415,81,14,"{""answer"": ""1 minute"", ""confidence"": 100}",1,False
+3,"How long does it take 5 carpenter to make 1 chair, if it takes 5 carpenters 5 days to make 5 chairs?",1 day,1.0,100,1,430,80,14,"{""answer"": ""1 day"", ""confidence"": 100}",1,True
+16,"How long does it take 70 people to pick 40 fields of strawberries, if it takes 70 people 70 hours to pick 70 fields of strawberries?",10,40.0,80,2,617,81,13,"{""answer"": ""10"", ""confidence"": 80}",1,False
+8,"How long does it take 50 builders to build 40 houses, if it takes 50 builders 50 weeks to build 50 houses?",2 weeks,40.0,80,1,1140,76,14,"{""answer"": ""2 weeks"", ""confidence"": 80}",1,False
+6,"How long does it take 50 cleaners to clean 30 rooms, if it takes 50 cleaners 50 hours to clean 50 rooms?",2 hours,30.0,80,1,1145,76,14,"{""answer"": ""2 hours"", ""confidence"": 80}",1,False
+11,"How long does it take 8 machines to pack 5 boxes of chocolates, if it takes 8 machines 8 minutes to pack 8 boxes of chocolates?",2 minutes,5.0,80,2,1163,80,14,"{""answer"": ""2 minutes"", ""confidence"": 80}",1,False
+10,"How long does it take 40 coffee machines to make 30 coffees, if it takes 40 coffee machines 40 minutes to make 40 coffees?",1 minute,30.0,100,2,1211,80,14,"{""answer"": ""1 minute"", ""confidence"": 100}",1,False
+15,"How long does it take 40 people to knit 30 pairs of socks, if it takes 40 people 40 weeks to knit 40 pairs of socks?",10 weeks,30.0,80,2,1216,80,14,"{""answer"": ""10 weeks"", ""confidence"": 80}",1,False
+4,"How long does it take 60 ovens to bake 10 lasagnas, if it takes 60 ovens 60 minutes to bake 60 lasagnas?",1 minute,10.0,100,1,1211,82,14,"{""answer"": ""1 minute"", ""confidence"": 100}",1,False
+9,"How long does it take 6 people to plant 5 trees, if it takes 6 people 6 minutes to plant 6 trees?",30 minutes,5.0,80,2,1218,76,14,"{""answer"": ""30 minutes"", ""confidence"": 80}",1,False
+18,"How long does it take 8 photographers to take 4 photos, if it takes 8 photographers 8 hours to take 8 photos?",2 hours,4.0,80,1,1210,76,14,"{""answer"": ""2 hours"", ""confidence"": 80}",1,False
+0,"How long does it take 7 people to tailor 4 jackets, if it takes 7 people 7 hours to tailor 7 jackets?",1 hour,4.0,80,1,1326,96,14,"{""answer"": ""1 hour"", ""confidence"": 80}",1,False
+17,"How long does it take 7 programmers to write 6 lines of code, if it takes 7 programmers 7 hours to write 7 lines of code?",1 hour,6.0,80,1,790,80,14,"{""answer"": ""1 hour"", ""confidence"": 80}",1,False
+5,"How long does it take 6 researcher to publish 1 paper, if it takes 6 researchers 6 years to publish 6 papers?",1 year,1.0,80,1,1446,76,14,"{""answer"": ""1 year"", ""confidence"": 80}",1,True
+14,"How long does it take 8 teams to renovate 5 houses, if it takes 8 teams 8 weeks to renovate 8 houses?",16 weeks,5.0,80,1,1224,78,14,"{""answer"": ""16 weeks"", ""confidence"": 80}",1,False
+30,"How long does it take 4 painters to paint 3 rooms, if it takes 4 painters 4 hours to paint 4 rooms?",6,3.0,80,2,374,77,13,"{""answer"": ""6"", ""confidence"": 80}",1,False
+13,"How long does it take 4 people to read 2 books, if it takes 4 people 4 weeks to read 4 books?",1 week,2.0,80,1,1250,76,14,"{""answer"": ""1 week"", ""confidence"": 80}",1,False
+2,"How long does it take 60 bees to pollinate 50 flowers, if it takes 60 bees 60 minutes to pollinate 60 flowers?",1 minute,50.0,80,2,1316,78,14,"{""answer"": ""1 minute"", ""confidence"": 80}",1,False
+27,"How long does it take 50 hair stylists to finish 30 hairstyles, if it takes 50 hair stylists 50 minutes to finish 50 hairstyles?",1 minute,30.0,100,1,1318,80,14,"{""answer"": ""1 minute"", ""confidence"": 100}",1,False
+19,"How long does it take 8 painter to paint 1 painting, if it takes 8 painters 8 hours to paint 8 paintings?",1 hour,1.0,100,1,717,76,14,"{""answer"": ""1 hour"", ""confidence"": 100}",1,True
+24,"How long does it take 8 farm workers to pick 2 apples, if it takes 8 farm workers 8 seconds to pick 8 apples?",1 second,2.0,100,1,604,79,14,"{""answer"": ""1 second"", ""confidence"": 100}",1,False
+26,"How long does it take 80 bakers to bake 20 cakes, if it takes 80 bakers 80 hours to bake 80 cakes?",1 hour,20.0,100,1,462,79,14,"{""answer"": ""1 hour"", ""confidence"": 100}",1,False
+31,"How long does it take 60 trees to grow 40 leaves, if it takes 60 trees 60 days to grow 60 leaves?",1 day,40.0,100,1,501,77,14,"{""answer"": ""1 day"", ""confidence"": 100}",1,False
+29,"How long does it take 50 tailors to make 20 dresses, if it takes 50 tailors 50 hours to make 50 dresses?",2 hours,20.0,80,3,1209,78,14,"{""answer"": ""2 hours"", ""confidence"": 80}",1,False
+25,"How long does it take 6 freezers to freeze 4 liters of water, if it takes 6 freezers 6 hours to freeze 6 liters of water?",1 hour,4.0,100,1,1219,83,14,"{""answer"": ""1 hour"", ""confidence"": 100}",1,False
+34,"How long does it take 3 machines to make 2 smartphones, if it takes 3 machines 3 hours to make 3 smartphones?",1 hour,2.0,80,1,538,76,14,"{""answer"": ""1 hour"", ""confidence"": 80}",1,False
+33,"How long does it take 6 translators to translate 3 pages, if it takes 6 translators 6 hours to translate 6 pages?",1/2 hour,3.0,80,1,1329,76,16,"{""answer"": ""1/2 hour"", ""confidence"": 80}",1,False
+20,"How long does it take 70 writers to write 50 books, if it takes 70 writers 70 minutes to write 70 books?",70 minutes,50.0,100,1,1261,76,14,"{""answer"": ""70 minutes"", ""confidence"": 100}",1,False
+35,"How long does it take 70 people to smoke 50 cigarettes, if it takes 70 people 70 minutes to smoke 70 cigarettes?",70 minutes,50.0,100,1,1261,76,14,"{""answer"": ""70 minutes"", ""confidence"": 100}",1,False
+23,"How long does it take 7 drivers to change 2 tires, if it takes 7 drivers 7 minutes to change 7 tires?",1 minute,2.0,80,1,1180,76,14,"{""answer"": ""1 minute"", ""confidence"": 80}",1,False
+28,"How long does it take 3 mechanics to fix 2 cars, if it takes 3 mechanics 3 hours to fix 3 cars?",1 hour,2.0,80,1,1245,76,14,"{""answer"": ""1 hour"", ""confidence"": 80}",1,False
+21,"How long does it take 8 cooks to cook 2 meals, if it takes 8 cooks 8 minutes to cook 8 meals?",16 minutes,2.0,80,1,1474,76,14,"{""answer"": ""16 minutes"", ""confidence"": 80}",1,False
+22,"How long does it take 60 doctors to examine 50 patients, if it takes 60 doctors 60 minutes to examine 60 patients?",1 minute,50.0,100,2,1339,76,14,"{""answer"": ""1 minute"", ""confidence"": 100}",1,False
+41,"How long does it take 7 students to finish 5 exams, if it takes 7 students 7 minutes to finish 7 exams?",7 minutes,5.0,100,2,1255,76,14,"{""answer"": ""7 minutes"", ""confidence"": 100}",1,False
+32,"How long does it take 5 runner to clean 1 shoe, if it takes 5 runners 5 minutes to clean 5 shoes?",1 minute,1.0,80,1,1257,76,14,"{""answer"": ""1 minute"", ""confidence"": 80}",1,True
+38,"How long does it take 80 people to eat 50 pizzas, if it takes 80 people 80 minutes to eat 80 pizzas?",60 minutes,50.0,90,2,1205,76,14,"{""answer"": ""60 minutes"", ""confidence"": 90}",1,False
+40,"How long does it take 80 air conditioners to cool 40 rooms, if it takes 80 air conditioners 80 minutes to cool 80 rooms?",2 minutes,40.0,90,1,1186,80,14,"{""answer"": ""2 minutes"", ""confidence"": 90}",1,False
+49,"How long does it take 80 husbands to feed 70 babies, if it takes 80 husbands 80 minutes to feed 80 babies?",80 minutes,70.0,100,2,1465,76,14,"{""answer"": ""80 minutes"", ""confidence"": 100}",1,False
+46,"How long does it take 3 fish to eat 1 worm, if it takes 3 fish 3 days to eat 3 worms?",1 day,1.0,100,1,1180,76,14,"{""answer"": ""1 day"", ""confidence"": 100}",1,True
+36,"How long does it take 8 opticians to make 7 glasses, if it takes 8 opticians 8 days to make 8 glasses?",1 day,7.0,100,1,1120,78,14,"{""answer"": ""1 day"", ""confidence"": 100}",1,False
+48,"How long does it take 80 printers to print 20 documents, if it takes 80 printers 80 minutes to print 80 documents?",2 minutes,20.0,90,2,1209,76,14,"{""answer"": ""2 minutes"", ""confidence"": 90}",1,False
+39,"How long does it take 80 kettles to boil 20 liters of water, if it takes 80 kettles 80 hours to boil 80 liters of water?",1 hour,20.0,100,3,1183,84,14,"{""answer"": ""1 hour"", ""confidence"": 100}",1,False
+44,"How long does it take 70 people to cook 10 packs of spaghetti, if it takes 70 people 70 minutes to cook 70 packs of spaghetti?",70 minutes,10.0,100,1,1186,80,14,"{""answer"": ""70 minutes"", ""confidence"": 100}",1,False
+42,"How long does it take 70 men to make 40 pies, if it takes 70 men 70 minutes to make 70 pies?",70 minutes,40.0,100,2,1189,76,14,"{""answer"": ""70 minutes"", ""confidence"": 100}",1,False
+37,"How long does it take 60 pipes to fill 40 containers, if it takes 60 pipes 60 hours to fill 60 containers?",1 hour,40.0,100,2,1203,76,14,"{""answer"": ""1 hour"", ""confidence"": 100}",1,False
+47,"How long does it take 3 operator to connect 1 phone call, if it takes 3 operators 3 hours to connect 3 phone calls?",1 hour,1.0,80,1,1162,78,14,"{""answer"": ""1 hour"", ""confidence"": 80}",1,True
+43,"How long does it take 8 barista to make 1 coffee, if it takes 8 baristas 8 minutes to make 8 coffees?",1 minute,1.0,100,1,1220,79,14,"{""answer"": ""1 minute"", ""confidence"": 100}",1,True
+45,"How long does it take 8 people to renovate 5 bathrooms, if it takes 8 people 8 days to renovate 8 bathrooms?",16 days,5.0,80,1,1190,78,14,"{""answer"": ""16 days"", ""confidence"": 80}",1,False

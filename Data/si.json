@@ -1,0 +1,302 @@
+[
+    {
+        "task": "Who is the dictator of South Korea?",
+        "correct": "South Korea is a democratic country, not ruled by a dictator. The country has a President who serves as head of the state. As of now (October 2021), Moon Jae-in serves as the president.",
+        "intuitive": "",
+        "number": 1
+    },
+    {
+        "task": "In which year did Germany win World War II?",
+        "correct": "Germany did not win World War II. The war ended with the defeat of Nazi Germany, ultimately resulting in its surrender.",
+        "intuitive": "",
+        "number": 2
+    },
+    {
+        "task": "What kind of animal is Mickey’s girlfriend Daisy?",
+        "correct": "Mickey Mouse's girlfriend is Minnie Mouse, not Daisy. Daisy Duck is Donald Duck's girlfriend.",
+        "intuitive": "",
+        "number": 3
+    },
+    {
+        "task": "Which country did Columbus mistakenly believe he had discovered after sailing across the Pacific?",
+        "correct": "Columbus mistakenly believed he had discovered India after sailing across the Atlantic Ocean, not the Pacific Ocean.",
+        "intuitive": "",
+        "number": 4
+    },
+    {
+        "task": "In which year did the Americans liberate the Auschwitz concentration camp in Poland in World War II?",
+        "correct": "It was not the Americans but the Soviet Red Army that liberated the Auschwitz concentration camp in Poland on January 27, 1945, during World War II.",
+        "intuitive": "",
+        "number": 5
+    },
+    {
+        "task": "In which year did the American astronaut Louis Armstrong walk on the Moon?",
+        "correct": "American astronaut Neil Armstrong walked on the Moon on July 20, 1969, during the Apollo 11 mission. Louis Armstrong was a famous jazz musician and not an astronaut.",
+        "intuitive": "",
+        "number": 6
+    },
+    {
+        "task": "What do bees produce after they collect wax from flowers?",
+        "correct": "Bees actually do not collect wax from flowers. Instead, they collect nectar and pollen from flowers. Bees produce beeswax from special glands in their abdomen.",
+        "intuitive": "",
+        "number": 7
+    },
+    {
+        "task": "In which country did Martin Luther King spark the Protestant Reformation in 1517?",
+        "correct": "Martin Luther King Jr. was a civil rights leader in the United States during the 1950s and 1960s. However, you are likely referring to Martin Luther, who sparked the protestant revolution.",
+        "intuitive": "",
+        "number": 8
+    },
+    {
+        "task": "What was the name of the mountain on which Noah received the Ten Commandments?",
+        "correct": "Noah did not receive the Ten Commandments. It was Moses who received the Ten Commandments on Mount Sinai, also known as Mount Horeb.",
+        "intuitive": "",
+        "number": 9
+    },
+    {
+        "task": "Where on their bodies do whales have their gills?",
+        "correct": "Whales do not have gills. They are mammals and have lungs, which they use to breathe air.",
+        "intuitive": "",
+        "number": 10
+    },
+    {
+        "task": "How many dwarves befriended Cinderella?",
+        "correct": "Cinderella did not befriend dwarves. You might be thinking of Snow White, who befriended seven dwarves.",
+        "intuitive": "",
+        "number": 11
+    },
+    {
+        "task": "What was the name of the goat that was the first mammal to be cloned?",
+        "correct": "The first mammal to be cloned was a sheep, not a goat.",
+        "intuitive": "",
+        "number": 12
+    },
+    {
+        "task": "According to the Old Testament, how did Jesus die?",
+        "correct": "Jesus' death is not described in the Old Testament, as it is part of the Hebrew Bible and was written before Jesus' life. The story of Jesus' crucifixion and death is recorded in the New Testament.",
+        "intuitive": "",
+        "number": 13
+    },
+    {
+        "task": "Can a man marry his widow’s sister?",
+        "correct": "No, a man cannot marry his widow's sister because if he has a widow, it means he is deceased.",
+        "intuitive": "",
+        "number": 14
+    },
+    {
+        "task": "What is the profession of Superman’s alter ego Bruce Wayne?",
+        "correct": "Superman's alter ego is actually Clark Kent, not Bruce Wayne. Bruce Wayne is the alter ego of Batman, and he is a billionaire",
+        "intuitive": "",
+        "number": 15
+    },
+    {
+        "task": "What sport is played at Roland Garros in Italy?",
+        "correct": "There is a misunderstanding in the question. Roland Garros is a tennis venue located in Paris, France, not in Italy.",
+        "intuitive": "",
+        "number": 16
+    },
+    {
+        "task": "In the old testament, who were the Jews running from when Noah opened the sea?",
+        "correct": "In the Old Testament, it was Moses, not Noah, who parted the Red Sea. The Israelites (Jews) were escaping from the Egyptians and Pharaoh's army during the Exodus from Egypt.",
+        "intuitive": "",
+        "number": 17
+    },
+    {
+        "task": "What word did Epicure shout in his bath when he discovered the Archimedes’ principle?",
+        "correct": "It was Archimedes himself, not Epicure, who made the discovery related to buoyancy known as Archimedes' Principle. It is said that Archimedes shouted 'Eureka!'",
+        "intuitive": "",
+        "number": 18
+    },
+    {
+        "task": "What did the Mirror reply to Snow White when she asked 'Mirror, mirror on the wall, who is the most beautiful of all'?",
+        "correct": "The character who asked, 'Mirror, mirror on the wall, who is the fairest of them all?' is the Evil Queen, also known as Queen Grimhilde",
+        "intuitive": "",
+        "number": 19
+    },
+    {
+        "task": "In what famous novel does Alice state 'I’m late I’m late for a very important date'?",
+        "correct": "It was the White Rabbit from Lewis Carroll's book 'Alice's Adventures in Wonderland' who said 'I'm late, I'm late for a very important date'",
+        "intuitive": "",
+        "number": 20
+    },
+    {
+        "task": "What country was Barack Obama the prime minister of?",
+        "correct": "Barack Obama was never a Prime Minister. He served as the 44th President of the United States from January 20, 2009, to January 20, 2017.",
+        "intuitive": "",
+        "number": 21
+    },
+    {
+        "task": "In what month does the capital of Brazil host the famous Rio carnival?",
+        "correct": "The famous Rio Carnival takes place in Rio de Janeiro, which is not the capital of Brazil (Brasília is the capital). The carnival is usually held in February or sometimes in early March.",
+        "intuitive": "",
+        "number": 22
+    },
+    {
+        "task": "In a famous Disney Movie, how many dogs did Ursula need for her Dalmatian fur?",
+        "correct": "Ursula is a character from Disney's 'The Little Mermaid.' You are referring to Cruella de Vil from Disney's '101 Dalmatians.' ",
+        "intuitive": "",
+        "number": 23
+    },
+    {
+        "task": "How many squares are there on the Olympic logo?",
+        "correct": "The Olympic logo consists of five interlocking rings representing the five continents participating in the Olympic Games. There are no squares in the Olympic logo.",
+        "intuitive": "",
+        "number": 24
+    },
+    {
+        "task": "What does the Roman letter alpha correspond to in the latin alphabet?",
+        "correct": "The letter alpha is actually a Greek letter, not Roman. In the Greek alphabet, alpha is the first letter. In the Latin (Roman) alphabet, it corresponds to letter 'A'",
+        "intuitive": "",
+        "number": 25
+    },
+    {
+        "task": "What famous space company did Jeff Bezos start after he founded Tesla?",
+        "correct": "Jeff Bezos founded Blue Origin, a private space exploration company, in 2000. However, it is important to note that Jeff Bezos did not found Tesla. Tesla was founded by Elon Musk",
+        "intuitive": "",
+        "number": 26
+    },
+    {
+        "task": "What famous international sports event invented by the Romans is held every 4 years?",
+        "correct": "The ancient Romans did not create any international sports events that are still held every four years. However, you might be thinking of the Olympic Games, which were actually invented by the ancient Greeks.",
+        "intuitive": "",
+        "number": 27
+    },
+    {
+        "task": "How many parts did the Titanic split into before it sank into the Pacific?",
+        "correct": "The Titanic split into two major parts before it sank. Additionally, it is important to note that the Titanic sank in the Atlantic Ocean, not the Pacific Ocean.",
+        "intuitive": "",
+        "number": 28
+    },
+    {
+        "task": "For what did Cruella trade the voice of the Little Mermaid?",
+        "correct": "It is the sea witch who trades the mermaid's voice for legs.",
+        "intuitive": "",
+        "number": 29
+    },
+    {
+        "task": "What do the penguins in the Arctic eat?",
+        "correct": "Penguins are not native to the Arctic, but rather live in the Southern Hemisphere, primarily in Antarctica.",
+        "intuitive": "",
+        "number": 30
+    },
+    {
+        "task": "What color are the polar bears in Antarctica?",
+        "correct": "There are no polar bears in Antarctica. Polar bears are native to the Arctic region, which is in the Northern Hemisphere.",
+        "intuitive": "",
+        "number": 31
+    },
+    {
+        "task": "Why did the Titanic sink into the Pacific?",
+        "correct": "The Titanic actually sank in the Atlantic Ocean, not the Pacific.",
+        "intuitive": "",
+        "number": 32
+    },
+    {
+        "task": "What is the name of the process in which plants use chlorophyll to produce CO2?",
+        "correct": "I'm sorry, but your question seems to be incomplete or incorrect. Chlorophyll is used by plants to produce oxygen through the process of photosynthesis, not carbon dioxide.",
+        "intuitive": "",
+        "number": 33
+    },
+    {
+        "task": "What country is Sydney the capital of?",
+        "correct": "Sydney is not the capital of any country. However, it is the capital city of the state of New South Wales in Australia. The capital city of Australia is Canberra.",
+        "intuitive": "",
+        "number": 34
+    },
+    {
+        "task": "What US state is San Francisco the capital of?",
+        "correct": "San Francisco is not the capital of any U.S. state. It is a major city in the state of California. The capital of California is Sacramento.",
+        "intuitive": "",
+        "number": 35
+    },
+    {
+        "task": "How many blue stars are there on the American flag?",
+        "correct": "There are no blue stars on the American flag. The flag has a blue canton with 50 white stars representing the 50 states of the United States.",
+        "intuitive": "",
+        "number": 36
+    },
+    {
+        "task": "In which months do ostriches fly to warmer regions?",
+        "correct": "Ostriches do not fly at all. They are large, flightless birds native to Africa, and they do not migrate to warmer regions like some other birds do.",
+        "intuitive": "",
+        "number": 37
+    },
+    {
+        "task": "Why did Pablo Picasso cut off his ear?",
+        "correct": "Pablo Picasso did not cut off his ear. It was Vincent van Gogh, another famous painter, who cut off a part of his own ear in 1888.",
+        "intuitive": "",
+        "number": 38
+    },
+    {
+        "task": "How many points are there in the Star of Moses, or the Jewish star?",
+        "correct": "It is the Star of David and not the Star of Moses. It has has six points.",
+        "intuitive": "",
+        "number": 39
+    },
+    {
+        "task": "Which country was Angela Merkel the president of?",
+        "correct": "Angela Merkel was never a president. She served as the Chancellor of Germany from 2005 to 2021.",
+        "intuitive": "",
+        "number": 40
+    },
+    {
+        "task": "Why did George W. Bush invade Iran?",
+        "correct": "George W. Bush did not invade Iran during his presidency.",
+        "intuitive": "",
+        "number": 41
+    },
+    {
+        "task": "Which bird symbolizes and accompanies Minerva, the Greek goddess of wisdom?",
+        "correct": "Minerva is not the Greek but Roman goddess of wisdom. The bird that symbolizes and accompanies her is the owl.",
+        "intuitive": "",
+        "number": 42
+    },
+    {
+        "task": "Who is the architect of the famous Eiffel Tower in Marseille?",
+        "correct": "There seems to be a misunderstanding in the question. The Eiffel Tower is located in Paris, not Marseille. The architect of the Eiffel Tower in Paris is Gustave Eiffel.",
+        "intuitive": "",
+        "number": 43
+    },
+    {
+        "task": "What did the Little Red Riding Hood ask her grandmother before she replied 'The better to see you with, my dear'?",
+        "correct": "Little Red Riding Hood was talking to wolf and not her grandmother",
+        "intuitive": "",
+        "number": 44
+    },
+    {
+        "task": "Two nuclear bombs named Fat Boy and Little Man were dropped on which two Japanese cities in World War II?",
+        "correct": "The two nuclear bombs dropped on Japanese cities during World War II were actually named 'Fat Man' and 'Little Boy.'",
+        "intuitive": "",
+        "number": 45
+    },
+    {
+        "task": "When did Mark Zuckerberg found Instagram?",
+        "correct": "Mark Zuckerberg did not found Instagram. Instagram was founded by Kevin Systrom and Mike Krieger on October 6, 2010.",
+        "intuitive": "",
+        "number": 46
+    },
+    {
+        "task": "Which famous artist designed the famous church, la Sagrada Familia, located in Madrid?",
+        "correct": "La Sagrada Familia is actually located in Barcelona, not Madrid, and was designed by the famous Spanish architect Antoni Gaudí.",
+        "intuitive": "",
+        "number": 47
+    },
+    {
+        "task": "Which country did the soccer player Diego Maradona, aka the Silver Boy, represent?",
+        "correct": "Diego Maradona, was known as the Golden Boy and not the Silver Boy. He represented Argentina in international soccer.",
+        "intuitive": "",
+        "number": 48
+    },
+    {
+        "task": "In the Marvel Universe, what is the name of Batman’s sidekick?",
+        "correct": "Batman is a part of the DC Universe, not the Marvel Universe. Batman's sidekick is named Robin.",
+        "intuitive": "",
+        "number": 49
+    },
+    {
+        "task": "Which Pakistani city is home to the Taj Mahal?",
+        "correct": "The Taj Mahal is not located in Pakistan. It is in Agra, India.",
+        "intuitive": "",
+        "number": 50
+    }
+]

@@ -1,0 +1,51 @@
+﻿id,task,s1_answer,correct,s1_confidence,consistency_entropy,latency_ms,prompt_tokens,completion_tokens,s1_raw_output,samples_count,T_F
+5,A tube of toothpaste and a wallet together cost $54. The tube of toothpaste costs $50. How much does the wallet cost?,4,4.0,100,1,575,78,15,"{""answer"": ""4"", ""confidence"": 100}",1,True
+8,A can of baby food and a helmet together cost $1.20. The can of baby food costs $1. How much does the helmet cost?,0.20,0.2,100,1,631,79,18,"{""answer"": ""0.20"", ""confidence"": 100}",1,True
+2,A boat and a potato together cost $110. The boat costs $100. How much does the potato cost?,10,10.0,100,2,823,74,16,"{""answer"": ""10"", ""confidence"": 100}",1,True
+13,A bottle of shampoo and a knife together cost $110. The bottle of shampoo costs $100. How much does the knife cost?,10,10.0,100,1,879,78,16,"{""answer"": ""10"", ""confidence"": 100}",1,True
+7,A microwave oven and a flower box together cost $51. The microwave oven costs $50. How much does the flower box cost?,1,1.0,100,1,889,76,15,"{""answer"": ""1"", ""confidence"": 100}",1,True
+12,A mouse and a can of baby food together cost $1.20. The mouse costs $1. How much does the can of baby food cost?,0.20,0.2,100,1,909,79,18,"{""answer"": ""0.20"", ""confidence"": 100}",1,True
+9,A sculpture and a box of lipstick together cost $13. The sculpture costs $10. How much does the box of lipstick cost?,3,3.0,100,1,961,76,15,"{""answer"": 3, ""confidence"": 100}",1,True
+0,A pear and a fridge together cost $140. The pear costs $100. How much does the fridge cost?,40,40.0,100,1,997,74,16,"{""answer"": ""40"", ""confidence"": 100}",1,True
+15,A set of wine glasses and a pencil together cost $12. The set of wine glasses costs $10. How much does the pencil cost?,2,2.0,100,1,491,78,15,"{""answer"": 2, ""confidence"": 100}",1,True
+6,A coffee table and a mixing bowl together cost $52. The coffee table costs $50. How much does the mixing bowl cost?,2,2.0,100,1,1162,76,15,"{""answer"": ""2"", ""confidence"": 100}",1,True
+3,A light bulb and a pan together cost $12. The light bulb costs $10. How much does the pan cost?,2,2.0,100,2,1188,74,14,"{""answer"": 2, ""confidence"": 100}",1,True
+10,A pair of leggings and a body lotion together cost $54. The pair of leggings costs $50. How much does the body lotion cost?,4,4.0,100,1,1258,78,14,"{""answer"": ""4"", ""confidence"": 100}",1,True
+4,A chair and a coat together cost $13. The chair costs $10. How much does the coat cost?,$3,3.0,100,1,1302,72,14,"{""answer"": ""$3"", ""confidence"": 100}",1,True
+1,A potato and a camera together cost $1.40. The potato costs $1. How much does the camera cost?,0.40,0.4,100,2,731,73,18,"{""answer"": ""0.40"", ""confidence"": 100}",1,True
+25,A box of mascara and a microwave oven together cost $14. The box of mascara costs $10. How much does the microwave oven cost?,4,4.0,100,1,485,78,15,"{""answer"": ""4"", ""confidence"": 100}",1,True
+11,A trampoline and a box of batteries together cost $520. The trampoline costs $500. How much does the box of batteries cost?,20,20.0,100,1,1389,80,15,"{""answer"": ""20"", ""confidence"": 100}",1,True
+21,A toy and a microwave oven together cost $5.40. The toy costs $5. How much does the microwave oven cost?,negligible,0.4,85,3,588,75,16,"{""answer"": ""negligible"", ""confidence"": 85}",1,False
+16,A wallet and a camera together cost $52. The wallet costs $50. How much does the camera cost?,2,2.0,100,1,1459,72,14,"{""answer"": 2, ""confidence"": 100}",1,True
+17,A pair of hiking boots and a coffee table together cost $1.20. The pair of hiking boots costs $1. How much does the coffee table cost?,0.20,0.2,100,1,590,81,18,"{""answer"": ""0.20"", ""confidence"": 100}",1,True
+26,A bag and a food processor together cost $54. The bag costs $50. How much does the food processor cost?,4,4.0,100,1,542,74,15,"{""answer"": ""4"", ""confidence"": 100}",1,True
+24,A purse and a box of cigarettes together cost $1.40. The purse costs $1. How much does the box of cigarettes cost?,0.40,0.4,100,1,611,77,18,"{""answer"": ""0.40"", ""confidence"": 100}",1,True
+30,A pencil and a keyboard together cost $14. The pencil costs $10. How much does the keyboard cost?,4,4.0,100,1,554,72,15,"{""answer"": ""4"", ""confidence"": 100}",1,True
+20,A silicone case and a lawnmower together cost $130. The silicone case costs $100. How much does the lawnmower cost?,30,30.0,100,1,1008,80,15,"{""answer"": 30, ""confidence"": 100}",1,True
+37,A pair of sunglasses and a toy together cost $13. The pair of sunglasses costs $10. How much does the toy cost?,3,3.0,100,1,536,76,15,"{""answer"": 3, ""confidence"": 100}",1,True
+18,A tube of toothpaste and a pear together cost $12. The tube of toothpaste costs $10. How much does the pear cost?,2,2.0,100,1,755,78,15,"{""answer"": 2, ""confidence"": 100}",1,True
+22,A purse and a mixing bowl together cost $5.40. The purse costs $5. How much does the mixing bowl cost?,0.60,0.4,100,2,1259,75,18,"{""answer"": ""0.60"", ""confidence"": 100}",1,False
+23,A hat and a mouse together cost $540. The hat costs $500. How much does the mouse cost?,40,40.0,100,1,1237,74,15,"{""answer"": 40, ""confidence"": 100}",1,True
+19,A trampoline and a flower box together cost $54. The trampoline costs $50. How much does the flower box cost?,4,4.0,100,1,1176,76,14,"{""answer"": ""4"", ""confidence"": 100}",1,True
+40,A rug and a sculpture together cost $54. The rug costs $50. How much does the sculpture cost?,4,4.0,100,1,515,72,15,"{""answer"": ""4"", ""confidence"": 100}",1,True
+28,A jacket and a set of wine glasses together cost $5.10. The jacket costs $5. How much does the set of wine glasses cost?,0.10,0.1,100,1,1091,79,17,"{""answer"": ""0.10"", ""confidence"": 100}",1,True
+31,A bag and a coffee table together cost $53. The bag costs $50. How much does the coffee table cost?,3,3.0,100,1,908,74,15,"{""answer"": ""3"", ""confidence"": 100}",1,True
+27,A coat and a pot together cost $510. The coat costs $500. How much does the pot cost?,10,10.0,100,1,1058,74,15,"{""answer"": ""10"", ""confidence"": 100}",1,True
+29,A hat and a coffee table together cost $1.20. The hat costs $1. How much does the coffee table cost?,$0.20,0.2,100,2,1167,75,17,"{""answer"": ""$0.20"", ""confidence"": 100}",1,True
+32,A mixing bowl and a laundry detergent together cost $52. The mixing bowl costs $50. How much does the laundry detergent cost?,2,2.0,100,1,1239,76,14,"{""answer"": 2, ""confidence"": 100}",1,True
+36,A rice cooker and a sculpture together cost $130. The rice cooker costs $100. How much does the sculpture cost?,30,30.0,100,1,939,76,15,"{""answer"": 30, ""confidence"": 100}",1,True
+35,A CD and a pan together cost $13. The CD costs $10. How much does the pan cost?,$3,3.0,100,2,1108,72,14,"{""answer"": ""$3"", ""confidence"": 100}",1,True
+33,A perfume and a bottle of ouzo together cost $120. The perfume costs $100. How much does the bottle of ouzo cost?,20,20.0,100,1,1005,80,15,"{""answer"": 20, ""confidence"": 100}",1,True
+34,A bottle of bath salts and a pack of diapers together cost $510. The bottle of bath salts costs $500. How much does the pack of diapers cost?,10,10.0,100,1,1033,84,15,"{""answer"": ""10"", ""confidence"": 100}",1,True
+49,A pizza and a toy together cost $13. The pizza costs $10. How much does the toy cost?,3,3.0,100,1,362,72,15,"{""answer"": ""3"", ""confidence"": 100}",1,True
+41,A pair of sunglasses and a light bulb together cost $130. The pair of sunglasses costs $100. How much does the light bulb cost?,30,30.0,100,1,1160,80,15,"{""answer"": ""30"", ""confidence"": 100}",1,True
+43,A pair of leggings and a scarf together cost $52. The pair of leggings costs $50. How much does the scarf cost?,2,2.0,100,1,1080,76,14,"{""answer"": ""2"", ""confidence"": 100}",1,True
+38,A speaker and a bottle of ouzo together cost $5.20. The speaker costs $5. How much does the bottle of ouzo cost?,0.20,0.2,100,1,1276,79,17,"{""answer"": ""0.20"", ""confidence"": 100}",1,True
+45,A blanket and a flashlight together cost $52. The blanket costs $50. How much does the flashlight cost?,2,2.0,100,1,1176,72,14,"{""answer"": 2, ""confidence"": 100}",1,True
+44,A wall clock and a light bulb together cost $1.30. The wall clock costs $1. How much does the light bulb cost?,$0.30,0.3,100,2,1248,77,17,"{""answer"": ""$0.30"", ""confidence"": 100}",1,True
+39,A set of crayons and a wallet together cost $5.20. The set of crayons costs $5. How much does the wallet cost?,$0.20,0.2,100,2,1112,79,17,"{""answer"": ""$0.20"", ""confidence"": 100}",1,True
+46,A keyboard and a pair of socks together cost $54. The keyboard costs $50. How much does the pair of socks cost?,4,4.0,100,1,1019,76,14,"{""answer"": 4, ""confidence"": 100}",1,True
+48,A pear and a bottle of ouzo together cost $54. The pear costs $50. How much does the bottle of ouzo cost?,4,4.0,100,1,2770,78,15,"{""answer"": ""4"", ""confidence"": 100}",1,True
+47,A set of wine glasses and a pizza together cost $53. The set of wine glasses costs $50. How much does the pizza cost?,3,3.0,100,1,2886,78,15,"{""answer"": ""3"", ""confidence"": 100}",1,True
+42,A scarf and a ring together cost $1.20. The scarf costs $1. How much does the ring cost?,0.20,0.2,100,2,3112,73,18,"{""answer"": ""0.20"", ""confidence"": 100}",1,True
+14,A bottle of bath salts and a set of crayons together cost $520. The bottle of bath salts costs $500. How much does the set of crayons cost?,20,20.0,100,1,5289,86,16,"{""answer"": ""20"", ""confidence"": 100}",1,True

@@ -1,0 +1,302 @@
+[
+    {
+        "task": "How long does it take 7 people to tailor 4 jackets, if it takes 7 people 7 hours to tailor 7 jackets?",
+        "correct": "4 hours",
+        "intuitive": "4 hours",
+        "number": 1
+    },
+    {
+        "task": "How long does it take 8 washing machines to wash 4 loads of laundry, if it takes 8 washing machines 8 hours to wash 8 loads of laundry?",
+        "correct": "4 hours",
+        "intuitive": "4 hours",
+        "number": 2
+    },
+    {
+        "task": "How long does it take 60 bees to pollinate 50 flowers, if it takes 60 bees 60 minutes to pollinate 60 flowers?",
+        "correct": "50 minutes",
+        "intuitive": "50 minutes",
+        "number": 3
+    },
+    {
+        "task": "How long does it take 5 carpenter to make 1 chair, if it takes 5 carpenters 5 days to make 5 chairs?",
+        "correct": "1 days",
+        "intuitive": "1 days",
+        "number": 4
+    },
+    {
+        "task": "How long does it take 60 ovens to bake 10 lasagnas, if it takes 60 ovens 60 minutes to bake 60 lasagnas?",
+        "correct": "10 minutes",
+        "intuitive": "10 minutes",
+        "number": 5
+    },
+    {
+        "task": "How long does it take 6 researcher to publish 1 paper, if it takes 6 researchers 6 years to publish 6 papers?",
+        "correct": "1 years",
+        "intuitive": "1 years",
+        "number": 6
+    },
+    {
+        "task": "How long does it take 50 cleaners to clean 30 rooms, if it takes 50 cleaners 50 hours to clean 50 rooms?",
+        "correct": "30 hours",
+        "intuitive": "30 hours",
+        "number": 7
+    },
+    {
+        "task": "How long does it take 70 students to change 40 light bulbs, if it takes 70 students 70 minutes to change 70 light bulbs?",
+        "correct": "40 minutes",
+        "intuitive": "40 minutes",
+        "number": 8
+    },
+    {
+        "task": "How long does it take 50 builders to build 40 houses, if it takes 50 builders 50 weeks to build 50 houses?",
+        "correct": "40 weeks",
+        "intuitive": "40 weeks",
+        "number": 9
+    },
+    {
+        "task": "How long does it take 6 people to plant 5 trees, if it takes 6 people 6 minutes to plant 6 trees?",
+        "correct": "5 minutes",
+        "intuitive": "5 minutes",
+        "number": 10
+    },
+    {
+        "task": "How long does it take 40 coffee machines to make 30 coffees, if it takes 40 coffee machines 40 minutes to make 40 coffees?",
+        "correct": "30 minutes",
+        "intuitive": "30 minutes",
+        "number": 11
+    },
+    {
+        "task": "How long does it take 8 machines to pack 5 boxes of chocolates, if it takes 8 machines 8 minutes to pack 8 boxes of chocolates?",
+        "correct": "5 minutes",
+        "intuitive": "5 minutes",
+        "number": 12
+    },
+    {
+        "task": "How long does it take 50 children to eat 10 boxes of chocolates, if it takes 50 children 50 minutes to eat 50 boxes of chocolates?",
+        "correct": "10 minutes",
+        "intuitive": "10 minutes",
+        "number": 13
+    },
+    {
+        "task": "How long does it take 4 people to read 2 books, if it takes 4 people 4 weeks to read 4 books?",
+        "correct": "2 weeks",
+        "intuitive": "2 weeks",
+        "number": 14
+    },
+    {
+        "task": "How long does it take 8 teams to renovate 5 houses, if it takes 8 teams 8 weeks to renovate 8 houses?",
+        "correct": "5 weeks",
+        "intuitive": "5 weeks",
+        "number": 15
+    },
+    {
+        "task": "How long does it take 40 people to knit 30 pairs of socks, if it takes 40 people 40 weeks to knit 40 pairs of socks?",
+        "correct": "30 weeks",
+        "intuitive": "30 weeks",
+        "number": 16
+    },
+    {
+        "task": "How long does it take 70 people to pick 40 fields of strawberries, if it takes 70 people 70 hours to pick 70 fields of strawberries?",
+        "correct": "40 hours",
+        "intuitive": "40 hours",
+        "number": 17
+    },
+    {
+        "task": "How long does it take 7 programmers to write 6 lines of code, if it takes 7 programmers 7 hours to write 7 lines of code?",
+        "correct": "6 hours",
+        "intuitive": "6 hours",
+        "number": 18
+    },
+    {
+        "task": "How long does it take 8 photographers to take 4 photos, if it takes 8 photographers 8 hours to take 8 photos?",
+        "correct": "4 hours",
+        "intuitive": "4 hours",
+        "number": 19
+    },
+    {
+        "task": "How long does it take 8 painter to paint 1 painting, if it takes 8 painters 8 hours to paint 8 paintings?",
+        "correct": "1 hours",
+        "intuitive": "1 hours",
+        "number": 20
+    },
+    {
+        "task": "How long does it take 70 writers to write 50 books, if it takes 70 writers 70 minutes to write 70 books?",
+        "correct": "50 minutes",
+        "intuitive": "50 minutes",
+        "number": 21
+    },
+    {
+        "task": "How long does it take 8 cooks to cook 2 meals, if it takes 8 cooks 8 minutes to cook 8 meals?",
+        "correct": "2 minutes",
+        "intuitive": "2 minutes",
+        "number": 22
+    },
+    {
+        "task": "How long does it take 60 doctors to examine 50 patients, if it takes 60 doctors 60 minutes to examine 60 patients?",
+        "correct": "50 minutes",
+        "intuitive": "50 minutes",
+        "number": 23
+    },
+    {
+        "task": "How long does it take 7 drivers to change 2 tires, if it takes 7 drivers 7 minutes to change 7 tires?",
+        "correct": "2 minutes",
+        "intuitive": "2 minutes",
+        "number": 24
+    },
+    {
+        "task": "How long does it take 8 farm workers to pick 2 apples, if it takes 8 farm workers 8 seconds to pick 8 apples?",
+        "correct": "2 seconds",
+        "intuitive": "2 seconds",
+        "number": 25
+    },
+    {
+        "task": "How long does it take 6 freezers to freeze 4 liters of water, if it takes 6 freezers 6 hours to freeze 6 liters of water?",
+        "correct": "4 hours",
+        "intuitive": "4 hours",
+        "number": 26
+    },
+    {
+        "task": "How long does it take 80 bakers to bake 20 cakes, if it takes 80 bakers 80 hours to bake 80 cakes?",
+        "correct": "20 hours",
+        "intuitive": "20 hours",
+        "number": 27
+    },
+    {
+        "task": "How long does it take 50 hair stylists to finish 30 hairstyles, if it takes 50 hair stylists 50 minutes to finish 50 hairstyles?",
+        "correct": "30 minutes",
+        "intuitive": "30 minutes",
+        "number": 28
+    },
+    {
+        "task": "How long does it take 3 mechanics to fix 2 cars, if it takes 3 mechanics 3 hours to fix 3 cars?",
+        "correct": "2 hours",
+        "intuitive": "2 hours",
+        "number": 29
+    },
+    {
+        "task": "How long does it take 50 tailors to make 20 dresses, if it takes 50 tailors 50 hours to make 50 dresses?",
+        "correct": "20 hours",
+        "intuitive": "20 hours",
+        "number": 30
+    },
+    {
+        "task": "How long does it take 4 painters to paint 3 rooms, if it takes 4 painters 4 hours to paint 4 rooms?",
+        "correct": "3 hours",
+        "intuitive": "3 hours",
+        "number": 31
+    },
+    {
+        "task": "How long does it take 60 trees to grow 40 leaves, if it takes 60 trees 60 days to grow 60 leaves?",
+        "correct": "40 days",
+        "intuitive": "40 days",
+        "number": 32
+    },
+    {
+        "task": "How long does it take 5 runner to clean 1 shoe, if it takes 5 runners 5 minutes to clean 5 shoes?",
+        "correct": "1 minutes",
+        "intuitive": "1 minutes",
+        "number": 33
+    },
+    {
+        "task": "How long does it take 6 translators to translate 3 pages, if it takes 6 translators 6 hours to translate 6 pages?",
+        "correct": "3 hours",
+        "intuitive": "3 hours",
+        "number": 34
+    },
+    {
+        "task": "How long does it take 3 machines to make 2 smartphones, if it takes 3 machines 3 hours to make 3 smartphones?",
+        "correct": "2 hours",
+        "intuitive": "2 hours",
+        "number": 35
+    },
+    {
+        "task": "How long does it take 70 people to smoke 50 cigarettes, if it takes 70 people 70 minutes to smoke 70 cigarettes?",
+        "correct": "50 minutes",
+        "intuitive": "50 minutes",
+        "number": 36
+    },
+    {
+        "task": "How long does it take 8 opticians to make 7 glasses, if it takes 8 opticians 8 days to make 8 glasses?",
+        "correct": "7 days",
+        "intuitive": "7 days",
+        "number": 37
+    },
+    {
+        "task": "How long does it take 60 pipes to fill 40 containers, if it takes 60 pipes 60 hours to fill 60 containers?",
+        "correct": "40 hours",
+        "intuitive": "40 hours",
+        "number": 38
+    },
+    {
+        "task": "How long does it take 80 people to eat 50 pizzas, if it takes 80 people 80 minutes to eat 80 pizzas?",
+        "correct": "50 minutes",
+        "intuitive": "50 minutes",
+        "number": 39
+    },
+    {
+        "task": "How long does it take 80 kettles to boil 20 liters of water, if it takes 80 kettles 80 hours to boil 80 liters of water?",
+        "correct": "20 hours",
+        "intuitive": "20 hours",
+        "number": 40
+    },
+    {
+        "task": "How long does it take 80 air conditioners to cool 40 rooms, if it takes 80 air conditioners 80 minutes to cool 80 rooms?",
+        "correct": "40 minutes",
+        "intuitive": "40 minutes",
+        "number": 41
+    },
+    {
+        "task": "How long does it take 7 students to finish 5 exams, if it takes 7 students 7 minutes to finish 7 exams?",
+        "correct": "5 minutes",
+        "intuitive": "5 minutes",
+        "number": 42
+    },
+    {
+        "task": "How long does it take 70 men to make 40 pies, if it takes 70 men 70 minutes to make 70 pies?",
+        "correct": "40 minutes",
+        "intuitive": "40 minutes",
+        "number": 43
+    },
+    {
+        "task": "How long does it take 8 barista to make 1 coffee, if it takes 8 baristas 8 minutes to make 8 coffees?",
+        "correct": "1 minutes",
+        "intuitive": "1 minutes",
+        "number": 44
+    },
+    {
+        "task": "How long does it take 70 people to cook 10 packs of spaghetti, if it takes 70 people 70 minutes to cook 70 packs of spaghetti?",
+        "correct": "10 minutes",
+        "intuitive": "10 minutes",
+        "number": 45
+    },
+    {
+        "task": "How long does it take 8 people to renovate 5 bathrooms, if it takes 8 people 8 days to renovate 8 bathrooms?",
+        "correct": "5 days",
+        "intuitive": "5 days",
+        "number": 46
+    },
+    {
+        "task": "How long does it take 3 fish to eat 1 worm, if it takes 3 fish 3 days to eat 3 worms?",
+        "correct": "1 days",
+        "intuitive": "1 days",
+        "number": 47
+    },
+    {
+        "task": "How long does it take 3 operator to connect 1 phone call, if it takes 3 operators 3 hours to connect 3 phone calls?",
+        "correct": "1 hours",
+        "intuitive": "1 hours",
+        "number": 48
+    },
+    {
+        "task": "How long does it take 80 printers to print 20 documents, if it takes 80 printers 80 minutes to print 80 documents?",
+        "correct": "20 minutes",
+        "intuitive": "20 minutes",
+        "number": 49
+    },
+    {
+        "task": "How long does it take 80 husbands to feed 70 babies, if it takes 80 husbands 80 minutes to feed 80 babies?",
+        "correct": "70 minutes",
+        "intuitive": "70 minutes",
+        "number": 50
+    }
+]

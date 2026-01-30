@@ -1,0 +1,51 @@
+﻿task,correct,intuitive,number
+"How long does it take 4 people to tailor 4 jackets, if it takes 7 people 7 hours to tailor 7 jackets?",7 hours,4 hours,1
+"How long does it take 4 washing machines to wash 4 loads of laundry, if it takes 8 washing machines 8 hours to wash 8 loads of laundry?",8 hours,4 hours,2
+"How long does it take 50 bees to pollinate 50 flowers, if it takes 60 bees 60 minutes to pollinate 60 flowers?",60 minutes,50 minutes,3
+"How long does it take 1 carpenter to make 1 chair, if it takes 5 carpenters 5 days to make 5 chairs?",5 days,1 days,4
+"How long does it take 10 ovens to bake 10 lasagnas, if it takes 60 ovens 60 minutes to bake 60 lasagnas?",60 minutes,10 minutes,5
+"How long does it take 1 researcher to publish 1 paper, if it takes 6 researchers 6 years to publish 6 papers?",6 years,1 years,6
+"How long does it take 30 cleaners to clean 30 rooms, if it takes 50 cleaners 50 hours to clean 50 rooms?",50 hours,30 hours,7
+"How long does it take 40 students to change 40 light bulbs, if it takes 70 students 70 minutes to change 70 light bulbs?",70 minutes,40 minutes,8
+"How long does it take 40 builders to build 40 houses, if it takes 50 builders 50 weeks to build 50 houses?",50 weeks,40 weeks,9
+"How long does it take 5 people to plant 5 trees, if it takes 6 people 6 minutes to plant 6 trees?",6 minutes,5 minutes,10
+"How long does it take 30 coffee machines to make 30 coffees, if it takes 40 coffee machines 40 minutes to make 40 coffees?",40 minutes,30 minutes,11
+"How long does it take 5 machines to pack 5 boxes of chocolates, if it takes 8 machines 8 minutes to pack 8 boxes of chocolates?",8 minutes,5 minutes,12
+"How long does it take 10 children to eat 10 boxes of chocolates, if it takes 50 children 50 minutes to eat 50 boxes of chocolates?",50 minutes,10 minutes,13
+"How long does it take 2 people to read 2 books, if it takes 4 people 4 weeks to read 4 books?",4 weeks,2 weeks,14
+"How long does it take 5 teams to renovate 5 houses, if it takes 8 teams 8 weeks to renovate 8 houses?",8 weeks,5 weeks,15
+"How long does it take 30 people to knit 30 pairs of socks, if it takes 40 people 40 weeks to knit 40 pairs of socks?",40 weeks,30 weeks,16
+"How long does it take 40 people to pick 40 fields of strawberries, if it takes 70 people 70 hours to pick 70 fields of strawberries?",70 hours,40 hours,17
+"How long does it take 6 programmers to write 6 lines of code, if it takes 7 programmers 7 hours to write 7 lines of code?",7 hours,6 hours,18
+"How long does it take 4 photographers to take 4 photos, if it takes 8 photographers 8 hours to take 8 photos?",8 hours,4 hours,19
+"How long does it take 1 painter to paint 1 painting, if it takes 8 painters 8 hours to paint 8 paintings?",8 hours,1 hours,20
+"How long does it take 50 writers to write 50 books, if it takes 70 writers 70 minutes to write 70 books?",70 minutes,50 minutes,21
+"How long does it take 2 cooks to cook 2 meals, if it takes 8 cooks 8 minutes to cook 8 meals?",8 minutes,2 minutes,22
+"How long does it take 50 doctors to examine 50 patients, if it takes 60 doctors 60 minutes to examine 60 patients?",60 minutes,50 minutes,23
+"How long does it take 2 drivers to change 2 tires, if it takes 7 drivers 7 minutes to change 7 tires?",7 minutes,2 minutes,24
+"How long does it take 2 farm workers to pick 2 apples, if it takes 8 farm workers 8 seconds to pick 8 apples?",8 seconds,2 seconds,25
+"How long does it take 4 freezers to freeze 4 liters of water, if it takes 6 freezers 6 hours to freeze 6 liters of water?",6 hours,4 hours,26
+"How long does it take 20 bakers to bake 20 cakes, if it takes 80 bakers 80 hours to bake 80 cakes?",80 hours,20 hours,27
+"How long does it take 30 hair stylists to finish 30 hairstyles, if it takes 50 hair stylists 50 minutes to finish 50 hairstyles?",50 minutes,30 minutes,28
+"How long does it take 2 mechanics to fix 2 cars, if it takes 3 mechanics 3 hours to fix 3 cars?",3 hours,2 hours,29
+"How long does it take 20 tailors to make 20 dresses, if it takes 50 tailors 50 hours to make 50 dresses?",50 hours,20 hours,30
+"How long does it take 3 painters to paint 3 rooms, if it takes 4 painters 4 hours to paint 4 rooms?",4 hours,3 hours,31
+"How long does it take 40 trees to grow 40 leaves, if it takes 60 trees 60 days to grow 60 leaves?",60 days,40 days,32
+"How long does it take 1 runner to clean 1 shoe, if it takes 5 runners 5 minutes to clean 5 shoes?",5 minutes,1 minutes,33
+"How long does it take 3 translators to translate 3 pages, if it takes 6 translators 6 hours to translate 6 pages?",6 hours,3 hours,34
+"How long does it take 2 machines to make 2 smartphones, if it takes 3 machines 3 hours to make 3 smartphones?",3 hours,2 hours,35
+"How long does it take 50 people to smoke 50 cigarettes, if it takes 70 people 70 minutes to smoke 70 cigarettes?",70 minutes,50 minutes,36
+"How long does it take 7 opticians to make 7 glasses, if it takes 8 opticians 8 days to make 8 glasses?",8 days,7 days,37
+"How long does it take 40 pipes to fill 40 containers, if it takes 60 pipes 60 hours to fill 60 containers?",60 hours,40 hours,38
+"How long does it take 50 people to eat 50 pizzas, if it takes 80 people 80 minutes to eat 80 pizzas?",80 minutes,50 minutes,39
+"How long does it take 20 kettles to boil 20 liters of water, if it takes 80 kettles 80 hours to boil 80 liters of water?",80 hours,20 hours,40
+"How long does it take 40 air conditioners to cool 40 rooms, if it takes 80 air conditioners 80 minutes to cool 80 rooms?",80 minutes,40 minutes,41
+"How long does it take 5 students to finish 5 exams, if it takes 7 students 7 minutes to finish 7 exams?",7 minutes,5 minutes,42
+"How long does it take 40 men to make 40 pies, if it takes 70 men 70 minutes to make 70 pies?",70 minutes,40 minutes,43
+"How long does it take 1 barista to make 1 coffee, if it takes 8 baristas 8 minutes to make 8 coffees?",8 minutes,1 minutes,44
+"How long does it take 10 people to cook 10 packs of spaghetti, if it takes 70 people 70 minutes to cook 70 packs of spaghetti?",70 minutes,10 minutes,45
+"How long does it take 5 people to renovate 5 bathrooms, if it takes 8 people 8 days to renovate 8 bathrooms?",8 days,5 days,46
+"How long does it take 1 fish to eat 1 worm, if it takes 3 fish 3 days to eat 3 worms?",3 days,1 days,47
+"How long does it take 1 operator to connect 1 phone call, if it takes 3 operators 3 hours to connect 3 phone calls?",3 hours,1 hours,48
+"How long does it take 20 printers to print 20 documents, if it takes 80 printers 80 minutes to print 80 documents?",80 minutes,20 minutes,49
+"How long does it take 70 husbands to feed 70 babies, if it takes 80 husbands 80 minutes to feed 80 babies?",80 minutes,70 minutes,50

@@ -1,0 +1,57 @@
+ # Configs/models.yaml
+
+models:
+  llama_3_2_3b:
+    id: meta-llama/llama-3.2-3b-instruct
+    provider: openrouter
+    family: llama3
+    size: 3b
+    license: llama-3.2
+    tags: [small, fast, baseline]
+    moe: no
+
+  qwen_2_5_7b:
+    id: qwen/qwen-2.5-7b-instruct
+    provider: openrouter
+    family: qwen
+    size: 7b
+    license: apache-2.0
+    tags: [multilingual, strong]
+    moe: no
+
+  mistral_8b:
+    id: mistralai/ministral-8b-2512
+    provider: openrouter
+    family: mistral
+    size: 8b
+    license: mistral-commercial
+    tags: [ balanced, strong ]
+    moe: no
+
+  gemma_2_9b:
+    id: google/gemma-2-9b-it
+    provider: openrouter
+    family: gemma2
+    size: 9b
+    license: gemma-terms
+    tags: [ knowledge, safety, balanced ]
+    moe: no
+
+  qwen_32b:
+    id: qwen/qwen3-32b
+    provider: openrouter
+    family: qwen
+    size: 32b
+    license: apache-2.0
+    tags: [multilingual, strong]
+    moe: no
+
+  deepseek_v3:
+    id: deepseek/deepseek-chat
+    provider: openrouter
+    family: deepseek
+    size: 671b
+    license: deepseek-license
+    tags: [smart, cheap, reasoning_capable]
+    moe: yes
+
